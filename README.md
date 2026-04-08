@@ -51,6 +51,11 @@ Displays the currently playing track directly in the bot's Discord status.
 
 ```
 Listening to Now playing: Logic - Ballin (ft. Castro)
+
+<img width="314" height="66" alt="Captura de tela 2026-04-08 193630" src="https://github.com/user-attachments/assets/b3e2e047-2865-480f-8671-bc75a0aff824" />
+<img width="344" height="80" alt="Captura de tela 2026-04-08 193642" src="https://github.com/user-attachments/assets/b7abba59-3eeb-434e-abea-98e957f8bd0c" />
+
+
 ```
 
 ---
