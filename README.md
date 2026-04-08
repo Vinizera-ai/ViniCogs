@@ -4,6 +4,13 @@ Production-grade cogs for Red-DiscordBot, built for performance, automation, and
 
 ---
 
+## Dynamic Music Presence for Red
+
+Show the currently playing track directly in your bot's Discord status.
+Built for Red Audio + Lavalink.
+
+---
+
 ## 🎧 Features
 
 * Dynamic "Now Playing" status based on the current track
