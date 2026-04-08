@@ -1,0 +1,10 @@
+{
+    "author": ["Vinizera-ai"],
+    "name": "musicpresence",
+    "short": "Dynamic status with music",
+    "description": "Shows the current music in the bot status automatically.",
+    "install_msg": "MusicPresence loaded successfully!",
+    "end_user_data_statement": "This cog does not store personal data.",
+    "tags": ["audio", "music", "presence"],
+    "min_bot_version": "3.5.0"
+}

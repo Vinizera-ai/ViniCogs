@@ -1,0 +1,9 @@
+{
+    "author": [
+        "Vinizera-ai"
+    ],
+    "name": "ViniCogs",
+    "short": "Custom Cogs",
+    "description": "Custom Cogs for Red-Discordbot.",
+    "install_msg": "Repository ViniCogs installed successfully."
+}
