@@ -18,8 +18,8 @@ Production-grade cogs for Red-DiscordBot, built for performance, automation, and
 
 ```text
 [p]load downloader
-[p]repo add sonic https://github.com/Vinizera-ai/SonicCogs
-[p]cog install sonic musicpresence
+[p]repo add vinicogs https://github.com/Vinizera-ai/ViniCogs
+[p]cog install vinicogs musicpresence
 [p]load musicpresence
 ```
 
